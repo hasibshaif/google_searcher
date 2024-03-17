@@ -1,6 +1,6 @@
 # Google Searcher
 
-Google Searcher is a Python script that utilizes Google's Custom Search API to open top search results for a given query in the default web browser.
+This simple Python script utilizes Google's Custom Search API to open top search results for a given query in the default web browser.
 
 ## Usage
 
